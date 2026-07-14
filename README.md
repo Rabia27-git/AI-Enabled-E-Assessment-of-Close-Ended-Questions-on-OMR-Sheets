@@ -22,6 +22,6 @@ This project is an AI-powered Optical Mark Recognition (OMR) evaluation system d
 
 ## Notes
 
--Ensure the input folder contains only valid OMR sheet images.
--The dummy answer key is already included in the project folder.
--Update the answer key to match your actual exam.
+- Ensure the input folder contains only valid OMR sheet images.
+- The dummy answer key is already included in the project folder.
+- Update the answer key to match your actual exam.
